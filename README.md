@@ -1,7 +1,7 @@
 # Tạo nhanh ứng dụng colab bằng script
 ## Bấm tạo ngay Colab [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/nqthaivl/Torrent-File-To-Dropbox/blob/main/Torrent_File_To_Dropbox_1TouchPro.ipynb)
 ## Author
-[Nguyễn Thái](https://nguyenthai.id.vn/)<br>
+[Nguyễn Thái](https://www.nguyenthai.id.vn/)<br>
 <br><br>
 ### Hướng dẫn cài đặt và tạo file config từ macos
 ```
